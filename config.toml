@@ -46,7 +46,7 @@ readingTime = true # default
 
 # whether to show a table of contents
 # can be overridden in a page's front-matter
-# Toc = false # default
+Toc = true # default
 
 # set title for the table of contents
 # can be overridden in a page's front-matter
@@ -77,7 +77,7 @@ missingContentMessage = "Page not found..."
 missingBackButtonLabel = "Back to home page"
 
 [languages.en.params.logo]
-logoText = "Terminal"
+logoText = "gvcodes"
 logoHomeLink = "/"
 
 [languages.en.menu]
